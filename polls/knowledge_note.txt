@@ -1,0 +1,14 @@
+### polls folder
+__init__.py − Just to make sure python handles this folder as a package.
+admin.py − This file helps you make the app modifiable in the admin interface.
+models.py − This is where all the application models are stored.
+tests.py − This is where your unit tests are.
+views.py − This is where your application views are.
+
+
+
+__init__.py - chỉ để đảm bảo Python xử lý thư mục này dưới dạng gói. 
+admin.py - Tệp này giúp bạn thực hiện ứng dụng được sửa đổi trong giao diện quản trị viên. 
+models.py - đây là nơi lưu trữ tất cả các mô hình ứng dụng. 
+test.Py - Đây là nơi kiểm tra đơn vị của bạn. 
+views.Py - Đây là nơi xem ứng dụng của bạn.

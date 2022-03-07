@@ -24,6 +24,7 @@ SECRET_KEY = 'django-insecure-&e-ro3$oe&aj1_lgsb=hx^lz=s$oe-u_-#edfq6cox08zl3slu
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
+## Tùy chọn này cho phép bạn đặt nếu dự án của bạn ở chế độ gỡ lỗi hay không. Chế độ gỡ lỗi cho phép bạn biết thêm thông tin về lỗi dự án của bạn. Không bao giờ đặt nó thành 'true' cho một dự án trực tiếp. Tuy nhiên, điều này phải được đặt thành 'TRUE' nếu bạn muốn máy chủ Django Light để phục vụ các tệp tĩnh. Chỉ làm điều đó trong chế độ phát triển.
 
 ALLOWED_HOSTS = []
 

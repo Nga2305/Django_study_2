@@ -20,3 +20,6 @@ def main():
 
 if __name__ == '__main__':
     main()
+
+# Manage.py - Tệp này là loại Dự án Django-Admin của dự án của bạn để tương tác với dự án của bạn thông qua dòng lệnh (bắt đầu máy chủ phát triển, đồng bộ hóa db ...)
+# To get a full list of command accessible via manage.py you can use the code − python manage.py help
